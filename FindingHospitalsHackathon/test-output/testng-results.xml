@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="87046" started-at="2022-04-11T11:37:57 IST" finished-at="2022-04-11T11:39:24 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="87046" started-at="2022-04-11T11:37:57 IST" finished-at="2022-04-11T11:39:24 IST">
+      <class name="Main.MainTest">
+        <test-method status="PASS" signature="createDrvier()[pri:0, instance:Main.MainTest@1f57539]" name="createDrvier" is-config="true" duration-ms="2373" started-at="2022-04-11T11:37:57 IST" finished-at="2022-04-11T11:38:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDrvier -->
+        <test-method status="PASS" signature="getHospitalList()[pri:0, instance:Main.MainTest@1f57539]" name="getHospitalList" duration-ms="51474" started-at="2022-04-11T11:38:00 IST" finished-at="2022-04-11T11:38:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHospitalList -->
+        <test-method status="PASS" signature="getCityList()[pri:1, instance:Main.MainTest@1f57539]" name="getCityList" duration-ms="3093" started-at="2022-04-11T11:38:51 IST" finished-at="2022-04-11T11:38:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCityList -->
+        <test-method status="PASS" signature="corporateBooking()[pri:2, instance:Main.MainTest@1f57539]" name="corporateBooking" duration-ms="29578" started-at="2022-04-11T11:38:54 IST" finished-at="2022-04-11T11:39:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- corporateBooking -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:Main.MainTest@1f57539]" name="closeDriver" is-config="true" duration-ms="493" started-at="2022-04-11T11:39:24 IST" finished-at="2022-04-11T11:39:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- Main.MainTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
